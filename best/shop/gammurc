@@ -1,0 +1,5 @@
+[gammu]
+
+#port = com19:
+port = com16:
+connection = at115200

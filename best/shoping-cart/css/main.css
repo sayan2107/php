@@ -1,0 +1,83 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: Arial; 
+}
+#main_div{
+	margin: 0px auto;
+	margin-bottom: 20px;
+	padding: 10px 10px;
+	width: 900px;
+	border: 1px solid black;
+	border-radius: 15px;
+	background-color:#fff;
+	box-shadow:5px 5px 15px rgba(0,0,0,0.4);
+}
+
+#main_section{
+	width: 400px;
+	
+}
+#division{
+	display:-webkit-box;
+	display:-moz-box;
+	-webkit-box-orient:horizontal;
+	-moz-box-orient:horizontal;
+}
+#side{
+	border: 1px solid #069;
+	border-radius: 15px;
+	width: 370px;
+	padding: 20px;
+	height: 300px;
+	box-shadow:5px 5px 15px rgba(0,0,0,0.4);
+	background-color:#edecf8;
+}
+h1{
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+}
+#heading{
+	text-align: center;
+	background:#069;
+	margin-top:0px;
+	padding-top:15px;
+	height:65px;
+	color:#FFF;
+	border-bottom:2px solid #000;
+}
+
+h3, .your_cart{
+	text-decoration: underline;
+	color: red;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+#color_me{
+	color:orange;
+}
+#logo{
+	float: left;
+}
+
+#name{
+	color: green;
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+	font-family:Arial, Helvetica, sans-serif; 
+	}
+
+a:hover{
+	text-decoration: underline;
+	color: #D00;
+	}	
+
+h5{
+	font-weight:normal;
+    color:rgba(0,0,0,0.7);	
+	}
